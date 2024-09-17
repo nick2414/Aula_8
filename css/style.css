@@ -1,0 +1,29 @@
+.primeiro{
+    background-color: blueviolet;
+
+}
+
+.segundo{
+    background-color: aqua;
+}
+
+.terceiro{
+    background-color: brown;
+
+}
+
+.exemplo{
+    list-style-type: none;
+}
+
+.bloco{
+    width: 300px;
+    height: 100px;
+    display: inline;
+
+}
+
+.bloco:hover{
+    background-color: crimson;
+    color: hotpink;
+}
